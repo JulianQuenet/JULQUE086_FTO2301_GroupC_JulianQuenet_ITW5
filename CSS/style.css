@@ -14,4 +14,34 @@ h1,h2,h3,p{
     margin:10px;
 }
 
+img{
+    border-radius: 50%;
+    border: 5px solid rgb(255, 255, 255);
+    margin-top: 5%;
+}
 
+.menu{
+    margin:0;
+    background-color: aquamarine;
+}
+
+.menu a{
+    color: black;
+}
+
+a{
+    color: rgb(57, 182, 57);
+}
+
+.header{
+    margin:0;
+    background-color: lightslategray;
+}
+
+.text{
+    color:rgb(255, 255, 255)
+}
+
+li{
+    margin-left: 50px;
+}
